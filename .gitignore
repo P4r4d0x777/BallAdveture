@@ -71,5 +71,5 @@ crashlytics-build.properties
 /[Aa]ssets/[Ss]treamingAssets/aa.meta
 /[Aa]ssets/[Ss]treamingAssets/aa/*
 
-Assets/PeterLu_HologramShader
-Assets/Apartment_Door
+Assets/PeterLu_HologramShader/
+Assets/Apartment_Door/
