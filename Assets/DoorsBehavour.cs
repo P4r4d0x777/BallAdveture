@@ -19,7 +19,7 @@ public class DoorsBehavour : MonoBehaviour
 
     private void OnCollisionEnter(Collision collision)
     {
-        if (_door != Doors.Third)
+        if (_door != Doors.First)
             Destroy(_destroyObject);
         else
             Destroy(gameObject);
